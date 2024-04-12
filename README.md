@@ -39,7 +39,7 @@
   <img src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg" alt="Nodemonio" width="100" height="80">
   <img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-ar21.svg" alt="Adobe Acrobat" width="100" height="80">
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-ar21.svg" alt="Adobe Illustrator" width="80" height="60">
-  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="Unity" width="80" height="60">
+  <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-ar21.svg" alt="Unity" width="80" height="80">
   <img src="https://cdn.icon-icons.com/icons2/615/PNG/256/Unreal_Engine_icon-icons.com_56587.png" alt="Unreal Engine" width="50" height="50">
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/adobe_photoshop_macos_bigsur_icon_190436.png" alt="Adobe Photoshop" width="50" height="50">
   <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/blender_alt_macos_bigsur_icon_189483.png" alt="Blender" width="50" height="50">
