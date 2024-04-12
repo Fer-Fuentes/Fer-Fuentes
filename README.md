@@ -1,6 +1,6 @@
 
 <!-- Sección Hero -->
-<img style="width: 100%; height: 400px;" src="https://drive.google.com/uc?export=download&id=1BFw44pFMrB5taLK5DBBHM3bf46IDHUMx" alt="Logo de Fer Fuentes">
+<img style="width: 100%; height: auto;" src="https://drive.google.com/uc?export=download&id=1BFw44pFMrB5taLK5DBBHM3bf46IDHUMx" alt="Logo de Fer Fuentes">
 <h2 align="center"> Stacks de Programación que Utilizo</h2>
 
 <p align="center">
