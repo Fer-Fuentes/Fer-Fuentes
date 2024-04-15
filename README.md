@@ -21,11 +21,12 @@
 <ul>
 <li>👨🏻‍💻 Estoy interesado en crear y dar vida a ideas con código,🧙‍♂️✨ expresando mi creatividad en diferentes proyectos.</li>
 <li>🌱 Actualmente estoy en constante aprendizaje🦝, explorando diversas formas de expresarme, como desarrollo de páginas web, videojuegos, mods, entre otros. Siempre aprendiendo.</li>
-<li>💞️ Busco colaborar en proyectos de desarrollo de juegos, sería como el sueño del pibe.⚽🔟</li>
+<li>💞️ Busco colaborar en proyectos de desarrollo de juegos🎮, sería como el sueño del pibe.⚽🔟</li>
 <li>✍️ En mi tiempo libre, me dedico al diseño de logotipos y a la redacción de blogs, libros📄 como pasatiempos</li>
 <li>🤖 Pronombres: Utilizo el apodo Deakon, principalmente en mis perfiles de juegos.</li>
 <li>⚡ Dato curioso: Comencé a programar por los juegos y por hobbie, luego me adentré en el desarrollo web y algunas veces en aplicaciones. No sé cómo terminé aquí, ¡pero me gusta complicarme la vida con proyectos! 😱</li>
-<li>📫 Puedes contactarme por mi correo personal: <a href="mailto:fer.fuentes717@gmail.com">fer.fuentes717@gmail.com</a> o a través de mi perfil de LinkedIn: https://www.linkedin.com/in/fer-fuentes/</li>
+<li>💻Visita mi portafolio personal🐼📲 https://fer-fuentes.github.io/Mi-Portafolio.github.io/ </li>
+<li>/</li>
 </ul>
 
 <h2 align="center">Mi Entorno de Desarrollo</h2>
